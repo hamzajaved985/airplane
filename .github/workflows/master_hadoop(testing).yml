@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'hadoop'
         slot-name: 'testing'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_93bd4181d60d4c6ab3024d9c75703379 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_064b09b802124c428cc54cc9edae5d03 }}
         package: .
